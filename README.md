@@ -1,6 +1,6 @@
 # Calvin-BT
 Hello, you can download my progress files
-open the zip file
+open the UPDATED zip file
 the password is myos
 go to all of the folders until you see the file.
 
